@@ -1,0 +1,6 @@
+.App {
+  display: grid;
+  grid-template-columns: 20% 70%;
+  grid-column-gap: 10%;
+  font-family: sans-serif;
+}
